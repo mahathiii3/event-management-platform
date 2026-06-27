@@ -26,7 +26,11 @@ bin/
 .vscode/
 
 ### Mac OS ###
+<<<<<<< HEAD
 .DS_Store
 
 *.iml
 *.ser
+=======
+.DS_Store
+>>>>>>> 1715edf7d29fe33ed897989df0d0c74991d133d7
