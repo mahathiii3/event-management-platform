@@ -219,7 +219,6 @@ This project strengthened practical understanding of:
 **Mahathi Vaka**
 
 B.Tech Computer Science and Business Systems
-SRM Institute of Science and Technology, Kattankulathur
 
 ---
 
